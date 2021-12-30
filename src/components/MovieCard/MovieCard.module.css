@@ -1,0 +1,47 @@
+.movieBox {
+  display: flex;
+
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 45%;
+}
+
+.descriptionBox {
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.userScore {
+  margin-bottom: 10px;
+}
+
+.overview {
+  font-weight: 700;
+  font-size: 22px;
+
+  margin-bottom: 10px;
+}
+
+.overviewText {
+  margin-bottom: 10px;
+}
+
+.genres {
+  font-weight: 700;
+  font-size: 17px;
+
+  margin-bottom: 10px;
+}
+
+.genresName:not(:last-child) {
+  margin-right: 10px;
+}
+
+.info {
+  margin-bottom: 10px;
+}

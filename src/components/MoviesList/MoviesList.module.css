@@ -1,0 +1,27 @@
+.listHome {
+  margin-left: 38%;
+}
+.list {
+  margin-left: 1%;
+}
+
+.item {
+  cursor: pointer;
+}
+
+.item:hover {
+  color: red;
+}
+
+.link {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-weight: 500;
+  color: black;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: red;
+}

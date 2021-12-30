@@ -1,0 +1,18 @@
+.homeView {
+  height: 100vh;
+  background: url('../../images/bgIMG.png');
+  background-size: 100vh;
+  background-repeat: no-repeat;
+}
+
+.Loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+}
+
+.notFound {
+  margin-left: 38%;
+}
